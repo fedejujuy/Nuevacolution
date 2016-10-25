@@ -8,5 +8,6 @@ namespace Solution2
 {
     public class Class1
     {
+        // Aqui nuevos cambios
     }
 }
